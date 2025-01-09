@@ -1,0 +1,12 @@
+body{
+    background-color: darkolivegreen;
+}
+h1, h2, h3, p{
+    text-align: center;
+}
+fieldset{
+    text-align: center;
+    color: burlywood;
+}
+
+
